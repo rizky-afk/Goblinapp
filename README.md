@@ -1,0 +1,2 @@
+# Goblinapp
+aplikasi penjualan
